@@ -12,3 +12,7 @@
 personal.auto.tfvars
 
 *.yml
+
+terraform.tfvars
+
+tfplan
